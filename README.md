@@ -1,3 +1,12 @@
+# Counter App
+
+A simple react counter application that mimicks the functionality of a shopping cart.
+Working with passing data through props, and trying to keep a single souce of truth.
+Challenges arise when the application scales, thus the integration of redux is necessary in large applications, to manage application states.
+
+Tutorial Link:
+https://www.youtube.com/watch?v=Ke90Tje7VS0
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
